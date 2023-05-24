@@ -566,7 +566,7 @@ a:focus {
   position: relative;
   background-color: #2d2d2d;
   color: #ffffff;
-  margin: 0 45px 45px;
+  /* margin: 0 45px 45px; */
 }
 .info_section .social_container {
   justify-content: center;
